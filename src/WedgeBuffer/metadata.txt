@@ -18,8 +18,8 @@ about=
     This plugin installs itself as a Processing algorithm which makes wedge shaped buffers on points. After installing
     the plugin, you have to activate its Processing provider under Processing -> Options -> Providers -> Wedge Buffer
 
-tracker=BugTrackerUrl
-repository=RepoUrl
+tracker=https://github.com/Septima/qgis-wedgebuffer/issues
+repository=https://github.com/Septima/qgis-wedgebuffer
 # End of mandatory metadata
 
 # Recommended items:
@@ -30,7 +30,7 @@ repository=RepoUrl
 # Tags are comma separated with spaces allowed
 tags=buffer wedge point processing
 
-homepage=HomePageUrl
+homepage=https://github.com/Septima/qgis-wedgebuffer
 category=Analysis
 icon=icon.png
 # experimental flag
