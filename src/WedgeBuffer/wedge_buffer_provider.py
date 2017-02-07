@@ -41,7 +41,7 @@ class WedgeBufferProvider(AlgorithmProvider):
     def __init__(self):
         AlgorithmProvider.__init__(self)
 
-        # Deactivate provider by default
+        # Activate provider by default
         self.activate = True
 
         # Load algorithms
